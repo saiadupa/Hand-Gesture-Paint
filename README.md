@@ -25,7 +25,7 @@ Ever wished to capture your imagination by just waving your finger in the air? I
 ## Example Output
 Here’s an example video showing the hand landmarks and drawing in action:
 
-![Output Video](output.gif)
+![Output Video](Output.gif)
 
 This project enables you to draw virtually by simply moving your hands, providing an innovative way to capture your creativity in the digital world.
 
