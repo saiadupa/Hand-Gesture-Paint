@@ -23,9 +23,9 @@ Ever wished to capture your imagination by just waving your finger in the air? I
 5. **Draw on Canvas:** Use the stored points to draw on both the frames and the virtual canvas.
 
 ## Example Output
-Here’s an example output image showing the hand landmarks and drawing:
+Here’s an example video showing the hand landmarks and drawing in action:
 
-![Output Image](output_image.png)
+![Output Video](output.gif)
 
 This project enables you to draw virtually by simply moving your hands, providing an innovative way to capture your creativity in the digital world.
 
@@ -33,11 +33,11 @@ This project enables you to draw virtually by simply moving your hands, providin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repository/Hand Gesture Paint.git
+   git clone https://github.com/saiadupa/Hand-Gesture-Paint.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Hand Gesture Paint
+   cd Hand-Gesture-Paint
    ```
 3. **Install the Required Libraries:**
    ```bash
@@ -45,7 +45,7 @@ This project enables you to draw virtually by simply moving your hands, providin
    ```
 4. **Run the Application:**
    ```bash
-   python air_canvas.py
+   python app.py
    ```
 
 ## Dependencies
